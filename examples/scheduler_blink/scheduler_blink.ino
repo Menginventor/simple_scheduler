@@ -1,3 +1,9 @@
+/*
+  Author : Meng Inventor
+  Contact : https://www.facebook.com/MLabpage
+  15 July 2022
+*/
+
 #include "simple_scheduler.h"
 #define LED1_PIN 7
 #define LED2_PIN 6
