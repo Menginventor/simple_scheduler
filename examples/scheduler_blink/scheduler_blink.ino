@@ -1,6 +1,10 @@
 #include "simple_scheduler.h"
+#define LED1_PIN 7
+#define LED2_PIN 6
+#define LED3_PIN 5
+#define GREEN_LED_PIN 4
 Task_list job_queue;
-Process_list job_queue;
+
 
 void setup()
 {
